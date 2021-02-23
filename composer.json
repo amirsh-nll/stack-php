@@ -1,0 +1,14 @@
+{
+    "name": "amirshnll/stack-php",
+    "description": "stack data structure in php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Amir Shokri",
+            "email": "amirsh.nll@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
