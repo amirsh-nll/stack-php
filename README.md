@@ -29,3 +29,7 @@ echo $myBooks->top();  // Output -> "item 3"
 echo $myBooks->pop();  // Output -> "item 3" 
 ?>
 ```
+<br />
+
+### Related Link
+* https://packagist.org/packages/amirshnll/stack-php
